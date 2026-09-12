@@ -1,0 +1,30 @@
+{
+  "name": "Pedro Henrique Nogueira da Silva",
+  "location": "São Paulo - SP",
+  "formation": "Análise e Desenvolvimento de Sistemas - Graduação concluída",
+  "target_roles": [
+    "Analista de Suporte de TI Júnior", "Analista de Service Desk Júnior", "Analista de Sistemas Júnior",
+    "Analista de Suporte Técnico Júnior", "Analista de Help Desk Júnior", "Analista de Suporte de Aplicações Júnior",
+    "Analista de Infraestrutura Júnior", "Analista de Automação Júnior", "Desenvolvedor Python Júnior", "Desenvolvedor de Sistemas Júnior"
+  ],
+  "skills": {
+    "systems": ["Windows", "Linux"],
+    "networking": ["TCP/IP", "DNS", "Gateway", "Redes", "Conectividade"],
+    "automation": ["PowerShell", "Python", "Automação de tarefas", "Scripts"],
+    "development": ["Python", "Java", "COBOL", "HTML", "Git", "GitHub", "Lógica de programação"],
+    "data_process": ["SQL básico", "Excel", "Documentação", "Melhoria de processos"],
+    "support": ["Suporte Técnico", "Suporte ao Usuário", "Troubleshooting", "Análise de problemas"]
+  },
+  "languages": {"Português": "Nativo", "Inglês": "Intermediário", "Espanhol": "Intermediário"},
+  "experience": [
+    {"company":"Drogasil","role":"Atendente","period":"Dez/2024 - Set/2026","transferable":["atendimento","resolução de problemas","priorização","rotinas operacionais"]},
+    {"company":"Lírios Central Park","role":"Gerente","period":"Ago/2017 - Nov/2023","transferable":["gestão operacional","organização","Excel","SQL básico","melhoria de processos","resolução de problemas"]}
+  ],
+  "projects": [
+    {"name":"IT Command Center","stack":["Python"],"focus":["automação","organização de rotinas de TI","MVP"]},
+    {"name":"Helpdesk Toolkit","stack":["Python","Linux"],"focus":["diagnóstico","rede","conectividade","relatórios TXT/JSON"]},
+    {"name":"Helpdesk Toolkit","stack":["PowerShell","Windows"],"focus":["IP","Gateway","DNS","ping","inventário","relatórios TXT/JSON"]},
+    {"name":"Sistema de Cadastro e Relatório","stack":["COBOL"],"focus":["cadastro","arquivo sequencial","relatórios"]}
+  ],
+  "rules": {"never_invent":true,"never_claim_unverified_experience":true,"require_human_approval_before_submission":true,"auto_reject_seniority":["Sênior","Senior","Pleno","Coordenador","Gerente"],"target_max_years_experience":3}
+}

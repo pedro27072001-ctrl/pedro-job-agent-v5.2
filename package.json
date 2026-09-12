@@ -1,0 +1,8 @@
+{
+  "name": "pedro-job-agent-v5",
+  "version": "5.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Agente pessoal de candidaturas com Supabase, Vercel e OpenAI.",
+  "scripts": {"check": "node --check api/ai.js && node --check api/fetch-job.js && node --check api/health.js"}
+}
