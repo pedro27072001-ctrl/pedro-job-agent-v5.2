@@ -55,4 +55,3 @@ grant select, insert, update, delete on public.profiles to authenticated;
 grant select, insert, update, delete on public.jobs to authenticated;
 grant select, insert, update, delete on public.applications to authenticated;
 
--- automatic schema cache refresh is handled by Supabase; if the tables do not appear in the Data API immediately, reload the dashboard.
